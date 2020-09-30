@@ -13,7 +13,8 @@ Contents:
 ## Hardware PCB
 
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Top_Bottom_4.png" width="60%">.
-Figure: 4-layer PCB designed for SCANNER, ECAD Tools: KiCAD.
+<figcaption>Figure: 4-layer PCB designed for SCANNER, ECAD Tools: KiCAD.</figcaption>
+
 # Firmware: 
 IDE: Keil microVision, Language: C/C++
 ## Firmware details presented in flow-chart
