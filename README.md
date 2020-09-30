@@ -12,7 +12,7 @@ Contents:
 # Hadrdware
 ## Hardware PCB
 
-<img src="https://github.com/zamansabbir/NSF_Scanner_For_SCC/blob/master/Flowchart3_largeFont2.png" width="60%">.
+<img src="https://github.com/zamansabbir/SCC-Health/blob/master/Top_Bottom_4.png" width="60%">.
 Figure: 4-layer PCB designed for SCANNER, ECAD Tools: KiCAD.
 # Firmware: 
 IDE: Keil microVision, Language: C/C++
