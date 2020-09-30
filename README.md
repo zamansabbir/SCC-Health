@@ -12,6 +12,7 @@ Contents:
 # Hadrdware
 ## Hardware PCB
 Following is the 4-layer PCB designed for SCANNER, ECAD Tools: KiCAD
+
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Top_Bottom_4.png", width="60%">
 
 # Firmware: 
