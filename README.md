@@ -4,7 +4,7 @@ Patients with chronic illness require frequent and avoidable hospital visits. Th
 ## Overview of the project
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Project_detail.png" width="60%">.
 
-Project_detail.png
+Figure: Project overview (Picture taken verbatim from the publication 1)
 
 Contents: 
 1. Hardware design: Schematic and PCB design in KiCAD
@@ -15,7 +15,7 @@ Following is the 4-layer PCB designed for SCANNER, ECAD Tools: KiCAD
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Top_Bottom_4.png", width="60%">
 
 # Firmware: 
-IDE: Keil &#x00B5 Vision, Language: C/C++
+IDE: Keil &#181 Vision, Language: C/C++
 ## Firmware details presented in flow-chart
 <img src="https://github.com/zamansabbir/NSF_Scanner_For_SCC/blob/master/Flowchart3_largeFont2.png" width="60%">.
 
@@ -23,3 +23,11 @@ IDE: Keil &#x00B5 Vision, Language: C/C++
 <img src="https://github.com/zamansabbir/NSF_Scanner_For_SCC/blob/master/Handshaking_Protocols_4_largeFont.png" width="60%">.
 Link of the firmware can be found here: 
 https://github.com/zamansabbir/NSF_Scanner_For_SCC
+
+Publication: 
+1. Inkjet Printed Fully-Passive Body-Worn Wireless Sensors for Smart and Connected Community (SCC) 
+URL: https://www.mdpi.com/2079-9268/7/4/26
+2. Design and Verification of a Portable Scanner for Body-Worn Wireless Resistive Analog Passive (WRAP) Sensors
+URL: https://ieeexplore.ieee.org/abstract/document/8500305
+3. Development of a Low-power Portable Scanner Device for Zero-power Body-worn Wireless Resistive Analog Passive (WRAP) Sensors
+URL: Under review
