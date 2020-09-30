@@ -4,3 +4,10 @@ Patients with chronic illness require frequent and avoidable hospital visits. Th
 Contents: 
 1. Hardware design: Schematic and PCB design in KiCAD
 2. Firmware
+
+# Firmware details presented in flow-chart
+![Flow chart of the Firmware Implemented](https://github.com/zamansabbir/NSF_Scanner_For_SCC/blob/master/Flowchart3_largeFont2.png)
+
+# Details of hand-shaking protocol implemented for the project: 
+![FSM handshaking](https://github.com/zamansabbir/NSF_Scanner_For_SCC/blob/master/Handshaking_Protocols_4_largeFont.png)
+
