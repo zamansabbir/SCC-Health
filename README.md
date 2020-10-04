@@ -3,7 +3,7 @@ Patients with chronic illness require frequent and avoidable hospital visits. Th
 
 ## Overview of the project
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Project_detail.png" width="60%">.
-
+<figcaption>Figure: Overall concept of SCC-Health.</figcaption>
 Figure: Project overview (Picture taken verbatim from the publication 1)
 
 Contents: 
