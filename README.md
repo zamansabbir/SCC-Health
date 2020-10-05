@@ -9,7 +9,7 @@ Figure: Project overview (Picture taken verbatim from the publication 1)
 Contents: 
 1. Hardware design: Schematic and PCB design in KiCAD
 2. Firmware
-# Hadrdware
+# Hardware
 ## Hardware PCB
 
 <img src="https://github.com/zamansabbir/SCC-Health/blob/master/Top_Bottom_4.png" width="60%">.
