@@ -31,4 +31,4 @@ URL: https://www.mdpi.com/2079-9268/7/4/26
 2. Design and Verification of a Portable Scanner for Body-Worn Wireless Resistive Analog Passive (WRAP) Sensors
 URL: https://ieeexplore.ieee.org/abstract/document/8500305
 3. Development of a Low-power Portable Scanner Device for Zero-power Body-worn Wireless Resistive Analog Passive (WRAP) Sensors
-URL: Under review
+URL: Accepted
